@@ -1,1 +1,1 @@
-# Data-Sience-Capstone
+# Data-Science-Capstone
